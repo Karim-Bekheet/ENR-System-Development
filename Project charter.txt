@@ -1,0 +1,72 @@
+Project charter
+• Project Name:
+	ENR System Development
+
+• Description:
+	The project is developing Egyptian National Railway (ENR) system, web app, mobile app, and desktop app, and digital ticketing.
+	The software project provide Assistance services for passengers (i.e. tracking travels, seat selection, Healthcare service, Meals
+	, and provide overview info about each train and its features) to enhance passenger experience. 
+
+• Objectives:
+	- Promote the ENR software system to provide features
+		- Provide the user the ability to check info and view the internal structure of the train(seats).
+		- The ability to reserve services (Healthcare, Prepared Meals).
+		- Tracking the Train travels (Departure & Arrival time).
+	- make marketing campaigns to promote the new features in the software
+	- increase num. of ENR website and mobile Application users by 5% in the first 20 days and by 15% percent by 1/3/2025
+	- The whole project muse be finished in six months.
+
+• Risk:
+ 	- Lose potential competitive advantage we might’ve had at the start because of schedule delay by specific tasks in launching phase.
+	- Scope creep risk in the project like evolving business needs if the project gets wide-spreaded or slight changes in stakeholders expectation.
+	- The possibility of employee turnover.
+
+• Stakeholders:
+ 	- ENR: 
+		- Directors.
+		- PR.
+		- Station Employees.
+		- NCTH "National Company for Tourism and Hospitality" financial director.
+		- Ain shams Hospital.
+	- ABC Tech. comp.
+	- Developing team.
+	- System Architect.
+	- Database specialist.
+	- Quality Control team.
+	- Business Analyst team.
+	- Marketing team.(XYZ comp.)
+	- Graphic Designer.
+	- Influencers (Notion , Facebook, Instagram, TikTok bloggers).
+	- Pages (Admins of Social media accounts).
+ 
+. Project Managers:
+	Karim Mohamed Bekheet
+	Mark Refaat Sadeq
+	Zeinab Mohamed 
+
+. Teams:
+	- Project manager
+	- System Analyst
+	- Design Team
+	- Technical Design Engineer
+	- Database Engineer
+	- Frontend team
+	- Backend team
+	- Database Administrator
+	- Software Developer
+	- Software Engineer
+	- Technical Support team
+	- Quality Control Engineer
+	- Testing team
+	- System architect
+	- Technical consultant
+	- Security Engineer
+	- Marketing Team
+	- Data Analyst team
+
+. Timeline:
+	- 6 months as a total.
+
+. Cost:
+	- $84,763.00
+	
