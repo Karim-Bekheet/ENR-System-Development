@@ -1,0 +1,134 @@
+• Initiation Phase:
+	1- market research
+		aims to answer the following:
+		-the expected age of the target audience.
+		-what are their current problems of the old ENR system?
+		-who are the competitors?
+		-what do they have beyond the value that ENR are providing?
+	2- Data Integration
+		- Identify best locations or stations based on collecting data from ENR System.
+		- Import Database from ENR about trains information(Internal space -> Seats).
+                - Import Database from ENR about Schedule.
+		- Identify High-season, and low-season based on collecting data from ENR System.
+	3- External Contracts
+	       ⁛- Contract for health services (first aid, medical assistance, etc.)
+		- Contract with NCTH "National Company for Tourism and Hospitality".	
+
+
+• Building Phase:
+	- Make sure that provided features is attainable.
+	- Adjust the specifics of the provided service based on the outcome.
+
+	‣ SDLC:
+	1- Requirement Specification
+	        - Write each US case scenario.
+		- Meeting each team requirements:
+			-- Source code, servers,...etc
+		- Meeting with previous development team.
+	2- System Analysis
+		- Prompt user to enter the input(passenger info: user name, E-mail, National ID,...etc).
+		- The output is ticket info,...
+	3- System Design
+		- UI/UX design.
+		- Design Logo.
+              there is more details needed//- Technical design creation.
+		- Database Design: ER diagram, Rational schema, Physical schema.
+		//- Prototype.
+ 	4- Implementation
+		- Frontend
+			-- Web App
+				--- Programming Languages needed for develop (React).
+			-- Mobile App
+				--- Programming Languages needed for develop (Flutter).
+		- Backend
+			-- Ensures data integrity and prevents the storage of incorrect or inconsistent data.
+			-- database building.
+			-- API Development.
+			-- Optimizing queries.
+			-- Implementing caching strategies.
+			-- Handle user authentication to control access.
+			-- Scalability architecture.
+		- Version Description Document
+		- Post-Implementation
+	5- Testing
+		- Establishing test cases.
+		- Conduct tests(including unit testing, security testing, integration testing, system testing, and acceptance testing.)
+	6- Deployment
+		//- Installation of software onto production computers.
+		- Scheduled training sessions for the project team in the software using specifics.
+	7- Maintenance
+
+
+• Launching Phase
+	1- market preparation for target audience what are their preferences
+        2- set a specific launching plan
+	3- marketing team Enablement                  
+	4- train the  team over the new features
+	5- Customer engagement
+		- make tutorials.
+		- design user guides.
+		- dedicated customer service channels.
+	6- marketing and promotions
+		- Announcement by The ENR accounts on social media and newspaper.
+		- A stage-gate meeting.
+		- A multi-step marketing campaign.
+
+Materials
+Software elements and frameworks(communication tools- 
+{ENR Database(clients data-feedback and complaints-stations data and capacity-reservations data-trains data),Egypt Trains mobile app,scanner, webservers, 4 pcs ,3 Laptops,source code,
+
+for use case scenarios:LibreOffice
+
+for system analysis:1 laptop,microsoft teams,Bizagi modeler(For creating flowcharts, data flow diagrams, and system architecture diagrams.)
+,Enterprise Architect(For designing system models using UML standards.),
+
+for designing UI/UX :Figma (Collaborative design tool for interfaces).,laptop
+
+for designing database:MySQL Workbench: Ideal for designing, visualizing, and managing MySQL databases.
+
+for technical design creation:Prototyping Tools (Figma),Visual Paradigm (Supports UML, database diagrams, and more).
+
+for  Ensure Data Integrity: Microsoft SQL Server
+
+for building database:Firebird Lightweight, open-source RDBMS for embedded use (Embedded databases are specifically built to integrate with desktop apps without a separate server.)
+HeidiSQL Easy-to-use tool for managing SQL databases like MySQL and MariaDB.
+
+Infrastructure Automation Tools:Terraform
+
+for API Developement : 
+for optimizing queries:
+Database Optimizer Plugin(SolarWinds),Query Profiling Tool (MySQL EXPLAIN)
+
+for Implementing caching strategies: Caching Tools
+
+for Handle user authentication :Encryption Tools(OpenSSL)
+for Scalability Architecture :Containerization and Orchestration(Docker)
+
+
+for frontend:flutter framework
+for tests:Test Network Infrastructure,Test Server For load and performance
+
+Schedule training sessions with ENR employees: Hall number 4,5,6;
+
+for maintaince:for creating backups of the database, source code, and configurations(Jenkins,Jira)
+
+
+
+legal contract
+Contract for healthcare services
+Contract with NCTH
+
+hardware components
+
+
+cost
+resources cost 
+expenses	
+Notes
+Git (To track database schema changes)
+
+
+External Contracts
+Contract for healthcare services
+Contract with NCTH
+	
